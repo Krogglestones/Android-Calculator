@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">helloAndroid</string>
+    <string name="clear">Clear</string>
+    <string name="go_to_calculator">Go to Calculator</string>
+    <string name="history">History</string>
+    <string name="calculator">Calculator</string>
+    <string name="random">Rand</string>
+    <string name="history2">History</string>
+    <string name="dave_demo">Dave Demo</string>
+    <string name="dave_demo_conversions">Dave Demo (Conversions)</string>
+
+
+    <string name="inches_to_centimeters">Inches to Centimeters</string>
+    <string name="centimeters_to_inches">Centimeters to Inches</string>
+    <string name="about">About</string>
+    <string name="about2">About</string>
+    <string name="calculator3">Calculator</string>
+    <string name="inch_to_cent">Inches to Centimeters</string>
+    <string name="our_company">Our company strives on making high quality applications for your Android device. This app has a calculator, a conversions page, and a history page</string>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">holaAndroid</string>
+    <string name="clear">Limpia</string>
+    <string name="go_to_calculator">ir a la calculadora</string>
+    <string name="history">Historia</string>
+    <string name="calculator">Calculadora</string>
+    <string name="random">aleatorio</string>
+    <string name="history2">Historia</string>
+    <string name="calculator2">Calculadora</string>
+    <string name="dave_demo">Demostración del Sr. Dave</string>
+    <string name="dave_demo_conversions">Demostración de Dave (conversiones)</string>
+
+
+    <string name="inches_to_centimeters">Pulgadas a centímetros</string>
+    <string name="centimeters_to_inches">Centimetros a Pulgadas</string>
+    <string name="about">Acerca de</string>
+    <string name="about2">Acerca de</string>
+    <string name="calculator3">Calculadora</string>
+    <string name="inch_to_cent">Pulgadas a centímetros</string>
+    <string name="our_company">
+Nuestra compañía se esfuerza en hacer aplicaciones de alta calidad para su dispositivo Android. Esta aplicación tiene una calculadora, una página de conversiones y una página de historial</string>
+
+
+</resources>
